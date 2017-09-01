@@ -1,4 +1,9 @@
 blue
 red
 white
+<<<<<<< HEAD
+green
+pink
+=======
 purple
+>>>>>>> master

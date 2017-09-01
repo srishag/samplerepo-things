@@ -1,4 +1,9 @@
 apples
 berries
 cherries
+<<<<<<< HEAD
 peach
+=======
+bananas
+watermelon
+>>>>>>> feature1
